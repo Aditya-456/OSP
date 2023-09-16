@@ -1,5 +1,5 @@
 OSP
-Online Sales Portal , Software Engineering Lab Spring 2022
+Online Sales Portal , Software Engineering Lab Spring 2023
 
 • Developed an online sales portal,where people can buy and sell their products on the same platform.
 
